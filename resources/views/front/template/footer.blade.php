@@ -56,7 +56,7 @@
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6">
 					<div class="copyright">
-						&copy; Made By <span class="text-color"><a href="https://github.com/gumelarid">gumelarid, </a></span> theme by <a href="https://themefisher.com/" target="_blank">Themefisher</a>
+						&copy; Made By <span class="text-color"><a href="https://github.com/gumelarid">gumelarid, </a></span>
 					</div>
 				</div>
 

@@ -36,7 +36,7 @@ class AuthController extends Controller
         ]);
 
         if ($validator->fails()) {
-            return redirect('/')
+            return redirect('/administrator')
                         ->withErrors($validator)
                         ->withInput();
         }
@@ -65,7 +65,7 @@ class AuthController extends Controller
                 'alert-type' => 'success'
             );
             
-            return Redirect::to('/')->with($notification);
+            return Redirect::to('/administrator')->with($notification);
         }
 
     }

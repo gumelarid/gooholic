@@ -12,32 +12,32 @@
 
 
 <!--   Core JS Files   -->
-<script src="{{ url('assets') }}./js/core/jquery.3.2.1.min.js"></script>
-<script src="{{ url('assets') }}./js/core/popper.min.js"></script>
-<script src="{{ url('assets') }}./js/core/bootstrap.min.js"></script>
+<script src="{{ url('assets') }}/js/core/jquery.3.2.1.min.js"></script>
+<script src="{{ url('assets') }}/js/core/popper.min.js"></script>
+<script src="{{ url('assets') }}/js/core/bootstrap.min.js"></script>
 
 <!-- jQuery UI -->
-<script src="{{ url('assets') }}./js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
-<script src="{{ url('assets') }}./js/plugin/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js"></script>
+<script src="{{ url('assets') }}/js/plugin/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
+<script src="{{ url('assets') }}/js/plugin/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js"></script>
 
 <!-- jQuery Scrollbar -->
-<script src="{{ url('assets') }}./js/plugin/jquery-scrollbar/jquery.scrollbar.min.js"></script>
+<script src="{{ url('assets') }}/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js"></script>
 
 
 <!-- Chart JS -->
-<script src="{{ url('assets') }}./js/plugin/chart.js/chart.min.js"></script>
+<script src="{{ url('assets') }}/js/plugin/chart.js/chart.min.js"></script>
 
 <!-- jQuery Sparkline -->
-<script src="{{ url('assets') }}./js/plugin/jquery.sparkline/jquery.sparkline.min.js"></script>
+<script src="{{ url('assets') }}/js/plugin/jquery.sparkline/jquery.sparkline.min.js"></script>
 
 <!-- Chart Circle -->
-<script src="{{ url('assets') }}./js/plugin/chart-circle/circles.min.js"></script>
+<script src="{{ url('assets') }}/js/plugin/chart-circle/circles.min.js"></script>
 
 <!-- Datatables -->
-<script src="{{ url('assets') }}./js/plugin/datatables/datatables.min.js"></script>
+<script src="{{ url('assets') }}/js/plugin/datatables/datatables.min.js"></script>
 
 <!-- Atlantis JS -->
-<script src="{{ url('assets') }}./js/atlantis.min.js"></script>
+<script src="{{ url('assets') }}/js/atlantis.min.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js" integrity="sha512-VEd+nq25CkR676O+pLBnDW09R7VQX9Mdiij052gVCp5yVH3jGtH70Ho/UUv4mJDsEdTvqRCFZg0NKGiojGnUCw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
